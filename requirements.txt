@@ -1,0 +1,6 @@
+phidata
+groq
+python-dotenv
+duckduckgo-search
+nest-asyncio
+requests
